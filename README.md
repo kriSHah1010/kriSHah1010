@@ -27,7 +27,7 @@ const Person Me = {
     name: "Krish Shah",
     age: 22,
     nationality: "Indian",
-    known Languages: ["REACTJS","NODEJS","EXCEL","POWER-BI","PYTHON","GITHUB", "CSS", "HTML"]
+    known Languages: ["REACTJS","NODEJS","EXCEL", "POWER-BI", "PYTHON","GitHub", "CSS", "HTML"]
 }
 ```
 
