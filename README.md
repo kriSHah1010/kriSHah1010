@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ```js
 const Person Me = {
     name: "Krish Shah",
-    age: 22,
+    age: 24,
     nationality: "Indian",
     known Languages: ["REACTJS","NODEJS","EXCEL", "POWER-BI", "PYTHON","GitHub", "CSS", "HTML"]
 }
